@@ -1,0 +1,21 @@
+{
+  "name": "resume_gen",
+  "version": "1.0.0",
+  "description": "A resume generator.",
+  "main": "resume_gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudarshan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "html-pdf": "^3.0.1",
+    "html2pdf.js": "^0.10.1",
+    "jquery": "^3.6.0",
+    "jspdf": "^2.5.1",
+    "pug": "^3.0.2"
+  }
+}
